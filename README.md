@@ -42,12 +42,11 @@ No, the highest model performance I achieved was Accuracy: 0.7374635568513119,
 
 #### What steps did you take in your attempts to increase model performance?
 
-I use the following step to increase model performance
-create more bins for rare occurrences in columns
-add column NAME as a feature
-add more neurons to a hidden layer
-use different activation functions for the hidden layers.
-Summary:
-The overall results of the deep learning model slightly increased after many attempts of optimization from accuracy 0.7287463545799255 to 0.7540816068649292. The result can predict the 'IS_SUCCESSFUL' result for application evaluation. The dataset includes many features to be considered so it needs a machine learning ability to learn complex and non-linear relationships between the input features and the target.
+The following steps I used to increase the model performance was adding additional bins for outliers in columns. Then 
+added the column 'NAME' as a feature. Additional neurons were added to a hidden layer. Three different activation functions were used for each hidden layer.
+Once the model was configured and run the variables within the model were re-evaluated to attempt to increase the performance.
+
+## Summary
+The overall results of the deep learning model slightly increased after many attempts of optimization from accuracy 0.7308454513549805 to 0.7374635568513119. The result can predict the 'IS_SUCCESSFUL' result for application evaluation. The dataset includes many features to be considered so it needs a machine learning ability to learn complex and non-linear relationships between the input features and the target.
 
 However, the deep learning model is often considered a "black box" and hard to interpret, due to its complexity. Alternatively, we may use other machine learning algorithms, such as Decision Trees and Random Forests. The code 'AlphabetSoupCharity_Optimisation_ipynb' demonstrates these two models and achieved about 0.73/0.74 accuracy, which is slightly lower than the deep learning model but a bit easy to visualize.
