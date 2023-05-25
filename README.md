@@ -24,7 +24,7 @@ The target for the model is 'IS_SUCCESSFUL'.
 
 #### What variable(s) are the features of your model?
 
-The feature for the model is 'APPLICATION_TYPE',' AFFILIATION', 'CLASSIFICATION', 'USE_CASE',' ORGANIZATION', 'STATUS', 'INCOME_AMT', 'SPECIAL_CONSIDERATIONS', 'ASK_AMT'.
+The feature for the model is 'APPLICATION_TYPE',' AFFILIATION', 'CLASSIFICATION', 'USE_CASE',' ORGANIZATION', 'STATUS', 'INCOME_AMT', 'SPECIAL_CONSIDERATIONS', and 'ASK_AMT'.
 
 #### What variable(s) should be removed from the input data because they are neither targets nor features?
 
