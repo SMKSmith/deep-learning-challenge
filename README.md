@@ -43,7 +43,7 @@ No, the highest model performance I achieved was Accuracy: 0.7374635568513119,
 #### What steps did you take in your attempts to increase model performance?
 
 The following steps I used to increase the model performance was adding additional bins for outliers in columns. Then 
-added the column 'NAME' as a feature. Additional neurons were added to a hidden layer. Three different activation functions were used for each hidden layer.
+added the column 'NAME' as a feature. Additional neurons were added to a hidden layer. Three different activation functions were used in total, a different function for each hidden layer.
 Once the model was configured and run the variables within the model were re-evaluated to attempt to increase the performance.
 
 ## Summary
