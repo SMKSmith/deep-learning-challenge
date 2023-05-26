@@ -33,7 +33,7 @@ Compiling, Training, and Evaluating the Model
 
 #### How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
-The neural network model included: 67 neurons, 3 hidden layers, and 3 activation functions (relu, tanh, sigmoid). (See Attached photo for details)
+The neural network model included: 67 neurons, 3 hidden layers, and 3 activation functions (relu, tanh, sigmoid). (See Attached photo for details) Initially, I started with low neurons and ran the model. When the model returned with a low accuracy I added more neurons. As I increased the amount of neurons the accuracy increased. I also used different functions for each layer, because it also increased the accuracy of the model.
 ![Data_model](https://github.com/SMKSmith/deep-learning-challenge/assets/117343047/84379b0f-5497-45a4-a75a-fb5788f3a1bd)
 
 #### Were you able to achieve the target model’s performance?
