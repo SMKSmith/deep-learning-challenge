@@ -38,7 +38,7 @@ The neural network model included: 67 neurons, 3 hidden layers, and 3 activation
 
 #### Were you able to achieve the target model’s performance?
 
-No, the highest model performance I achieved was Accuracy: 0.7374635568513119,
+Yes, the highest model performance I achieved was Accuracy: 0.7527697086334229
 
 #### What steps did you take in your attempts to increase model performance?
 
